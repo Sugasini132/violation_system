@@ -1,0 +1,12 @@
+path: dataset
+
+train: train/images
+val: val/images
+
+nc: 4
+
+names:
+  0: with helmet
+  1: without helmet
+  2: rider
+  3: number plate
